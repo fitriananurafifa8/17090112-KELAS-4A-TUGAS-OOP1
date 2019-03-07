@@ -1,0 +1,14 @@
+package halo;
+
+/**
+ *
+ * @author fitri
+ */
+public class FitrianaNurAfifahS17090112_4A {
+    public static void main (String[] args){
+        System.out.println(" Nama saya Fitriana Nur Afifah S");
+        System.out.println("Prodi informatika");
+        System.out.println("Kelas 4A");
+        System.out.println("NIM 17090112");
+    }
+}
